@@ -5,3 +5,4 @@ project("Matej_CPlusPlus_Sandbox"  LANGUAGES CXX)
 
 add_subdirectory(chapter_00)
 add_subdirectory(chapter_01_rule_of_five)
+add_subdirectory(chapter_02_templates_name_mangling)
